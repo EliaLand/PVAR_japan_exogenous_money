@@ -1,1 +1,1 @@
-# PVAR_japan_exogenous_money
+# PVAR_japan_endogenous_money
